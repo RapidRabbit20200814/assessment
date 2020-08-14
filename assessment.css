@@ -1,0 +1,19 @@
+body{
+    /*background-color: #0066CC*/
+    background: linear-gradient(90deg,#0066CC,#00FFCC);
+    color: #FDFFFF;
+    width: 500px;
+    margin-right: auto; /*中央寄せ*/
+    margin-left: auto; /*中央寄せ*/
+}
+
+button{
+    padding: 5px 20px; /*ボタンの内側余白（上下5px、左右20px）*/
+    background-color: #337AB7;
+    border-style: none; /*枠線なし*/
+    color: #FDFFFF
+}
+
+input{
+    height: 24px;
+}
